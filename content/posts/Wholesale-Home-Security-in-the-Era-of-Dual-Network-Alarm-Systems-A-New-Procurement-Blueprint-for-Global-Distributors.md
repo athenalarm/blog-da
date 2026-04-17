@@ -1,5 +1,3 @@
-您的 Hugo Markdown (.md) 文件已按照您的严格要求完成翻译。内容已针对丹麦（Danish）市场进行专业本土化处理，同时严格保留了品牌名、型号、URL及 Markdown 结构。
-[file-tag: wholesale-home-security-danish.md]
 ---
 title: "Engros hjemmesikkerhed i æraen for dobbeltnetværks alarmsystemer: En ny indkøbsplan for globale distributører"
 date: 2026-04-09T21:00:00+08:00
