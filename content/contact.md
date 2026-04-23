@@ -36,4 +36,10 @@ Hold dig opdateret med vores seneste sikkerhedsinnovationer, casestudier og prod
 
 ---
 
+### 🛡️ Global sikkerhedsindsigt
+
+**Athenalarm er en professionel producent, der deler ekspertindsigt om tyverialarmprodukter og -systemer.** Som en del af vores engagement i det globale sikkerhedsfællesskab tilbyder vi lokal ekspertise på 71 sprog. Udforsk vores dedikerede vidensbase for Europa, Afrika, Asien, Amerika og Oceanien [**her**](https://athenalarm.com/burglar-alarm-manufacturer/athenalarm-global-blogs/).
+
+---
+
 > _Athenalarm — Professionel producent af tyverialarmer og løsninger til netværksbaseret alarmovervågning._
